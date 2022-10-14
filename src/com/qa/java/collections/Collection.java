@@ -17,7 +17,6 @@ public class Collection {
 	public static void main(String[] args) {
 
 		ArrayList<Employee> employees = new ArrayList<Employee>();
-		employees.add(new Employee());
 		employees.add(new Employee(1, "Ali", "Qa", "aligoni@gmail.com", 20000.00, 3));
 		employees.add(new Employee(2, "Jabril", "Qa", "jabril@gmail.com", 30000.00, 2));
 		employees.add(new Employee(3, "David", "Qa", "david@gmail.com", 40000.00, 1));

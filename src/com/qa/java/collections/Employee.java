@@ -11,13 +11,6 @@ public class Employee {
 	
 	
 	Employee(){
-		empID = 0;
-		fName = "John";
-		lName = "Smith";
-		email = "john.smith@gmail.com";
-		salary = 0;
-		workX = 0;
-		
 	}
 	
 	public Employee(int empID, String fName, String lName, String email, double salary, int workX) {
